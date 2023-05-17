@@ -1,2 +1,2 @@
-# GitHub_Action
+# GitHub Actions Tutorial
 GitHub_Action

@@ -29,3 +29,4 @@ jobs:
           echo "Building for ${{ github.event.inputs.customerName }}"
           echo "Premium customer: ${{ github.event.inputs.isPremium }}"
           echo "Selected theme: ${{ github.event.inputs.preferredTheme }}"
+

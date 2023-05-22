@@ -1,17 +1,14 @@
 {
-  "name": "node-app",
-  "description": "Nodeapp for CICD File",
-  "version": "0.0.1",
-  "private": true,
-  "dependencies": {
-    "express": "4.17.1"
-  },
-  "devDependencies": {
-    "mocha": "9.1.1",
-    "supertest": "6.1.6"
-  },
+  "name": "github-actions-video",
+  "version": "1.0.0",
+  "description": "",
   "scripts": {
-    "start": "node index.js",
-    "test": "./node_modules/.bin/mocha ./File/file.js"
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^5.1.0"
   }
 }
